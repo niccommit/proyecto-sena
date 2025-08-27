@@ -1,0 +1,8 @@
+*.class
+
+Thumbs.db
+
+lib/*.jar
+
+
+bin/
