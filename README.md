@@ -1,4 +1,4 @@
-# InventPro Server
+# InventPro
 
 Sistema de gestión de inventarios desarrollado en Java con conexión a base de datos PostgreSQL.
 
